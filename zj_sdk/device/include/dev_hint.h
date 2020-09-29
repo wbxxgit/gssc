@@ -10,9 +10,9 @@
 #define DEVVOICE_TRISETNET_QR       "/mnt/config/aac/qrcode_ok1.aac"
 #define DEVVOICE_TRISETNET_QLINK       "/mnt/config/aac/qrcode_ok1.aac"
 
-#define DEVVOICE_POWERRESET       "/mnt/config/aac/powerReset.aac"
+#define DEVVOICE_POWERRESET       "/opt/ipnc/aac/qrcode_start.aac"
 
-
+///opt/ipnc/aac					
 
 int dev_hintSoundP(char *filePath);
 
